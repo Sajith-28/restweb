@@ -1,4 +1,4 @@
-# Ex.07 Restaurant Website
+# Ex.06 Restaurant Website
 ## Date:18/10/2024
 
 ## AIM:
@@ -240,10 +240,10 @@ footer {
 }
 ```
 ## OUTPUT:
-![res op 1](https://github.com/user-attachments/assets/75d4f40f-11ca-46ca-a2fa-7db327261764)
+![1](https://github.com/user-attachments/assets/d93f7494-444c-4238-9ec9-9deb3f38a9ff)
 
-![res op 2](https://github.com/user-attachments/assets/685e9623-0903-4224-99de-c358e1799c16)
 
+![2](https://github.com/user-attachments/assets/5cefaebf-e902-4b67-b29b-37119ebdca25)
 
 
 ## RESULT:
